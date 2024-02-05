@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+main{
+    background-color: grey;
+}
+header{
+    justify-content: center;
+}
+.roundedimg{
+    border-radius:  50%;
+    border: 5px solid black;
+}
